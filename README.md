@@ -252,7 +252,7 @@ Example markdown:
 ```
 | **Description**                             | **Embedded Image**                                                                                |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| OpenNebula dashboard showing VMs            | ![OpenNebula Dashboard](https://docs.opennebula.io/_images/cloud_view_vm_list.png)                |
+| OpenNebula dashboard showing VMs            | ![OpenNebula Dashboard](https://github.com/GiribharathiV/cloud-computing-lab/blob/aa1a5b589e89f50668cfa8e2ab583195f836eaec/WhatsApp%20Image%202025-05-10%20at%2010.29.54_30960f37.jpg)                |
 | VM creation or VM list view                 | ![VM Creation](https://docs.opennebula.io/_images/sunstone_vm_create_wizard.png)                  |
 | Terminal screenshot showing VM IP addresses | ![VM IP Addresses](https://upload.wikimedia.org/wikipedia/commons/4/45/Linux_ifconfig_output.png) |
 | File transfer in progress using `scp`       | ![SCP Transfer](https://linuxhint.com/wp-content/uploads/2022/08/7-11.png)                        |
