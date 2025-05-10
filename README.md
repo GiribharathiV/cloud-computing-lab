@@ -230,7 +230,7 @@ Avoid using `scp` over **public networks** without proper encryption/tunneling.
 | OpenNebula login page          | ![OpenNebula Dashboard](https://github.com/GiribharathiV/cloud-computing-lab/blob/aa1a5b589e89f50668cfa8e2ab583195f836eaec/WhatsApp%20Image%202025-05-10%20at%2010.29.54_30960f37.jpg)                |
 | VM creation or VM list view                 | ![VM Creation](https://docs.opennebula.io/6.10/_images/sunstone_create_vrouter.png)                  |
 | File transfer in progress using       | ![SCP Transfer](https://linbit.com/wp-content/uploads/2023/09/linstor-opennebula-how-to-setup_01-1536x509.png)                        |
-| Transfer success confirmation               | ![Transfer Success](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.opennebula.io%2Ft%2Fscheduler-policies%2F10027&psig=AOvVaw0_4QM1coPFRvI1XihGbZr3&ust=1746942522191000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCTu5OamI0DFQAAAAAdAAAAABAI)                                          |
+| Transfer success confirmation               | ![Transfer Success](https://canada1.discourse-cdn.com/flex031/uploads/opennebula/original/2X/c/c11566edd35b12b29b0ccd4fcfa7465c337b4518.png)                                          |
 
 ---
 
