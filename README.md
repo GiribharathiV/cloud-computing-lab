@@ -250,6 +250,14 @@ Example markdown:
 ![SSH Error](images/ssh-error.png)
 ![Cron Job](images/cron-job.png)
 ```
+| **Description**                             | **Embedded Image**                                                                                |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| OpenNebula dashboard showing VMs            | ![OpenNebula Dashboard](https://docs.opennebula.io/_images/cloud_view_vm_list.png)                |
+| VM creation or VM list view                 | ![VM Creation](https://docs.opennebula.io/_images/sunstone_vm_create_wizard.png)                  |
+| Terminal screenshot showing VM IP addresses | ![VM IP Addresses](https://upload.wikimedia.org/wikipedia/commons/4/45/Linux_ifconfig_output.png) |
+| File transfer in progress using `scp`       | ![SCP Transfer](https://linuxhint.com/wp-content/uploads/2022/08/7-11.png)                        |
+| Transfer success confirmation               | ![Transfer Success](https://i.stack.imgur.com/JkbZL.png)                                          |
+| SSH permission error example                | ![SSH Error](https://linuxhint.com/wp-content/uploads/2022/08/6-17.png)                           |
 
 ---
 
