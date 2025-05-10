@@ -1,5 +1,3 @@
-Of course! Here’s a **professional, detailed, and beginner-friendly README/blog post** based on your specifications, complete with structure, code blocks, tips, and markdown image placeholders.
-
 ---
 
 # 📂 Transferring Files Between Virtual Machines (VMs) on OpenNebula
@@ -227,37 +225,12 @@ Avoid using `scp` over **public networks** without proper encryption/tunneling.
 
 ## 8️⃣ Screenshots
 
-| **Description**                     | **Filename**                   |
-| ----------------------------------- | ------------------------------ |
-| OpenNebula dashboard showing VMs    | `images/vm-dashboard.png`      |
-| Source VM IP shown in terminal      | `images/source-vm-ip.png`      |
-| Destination VM IP shown in terminal | `images/destination-vm-ip.png` |
-| Sample file ready to transfer       | `images/sample-file.png`       |
-| Running the `scp` command           | `images/scp-transfer.png`      |
-| Successful transfer confirmation    | `images/transfer-success.png`  |
-| Example of SSH permission error     | `images/ssh-error.png`         |
-| Cron job setup                      | `images/cron-job.png`          |
-
-Example markdown:
-
-```markdown
-![VM Dashboard](images/vm-dashboard.png)
-![Source VM IP](images/source-vm-ip.png)
-![Destination VM IP](images/destination-vm-ip.png)
-![Sample File](images/sample-file.png)
-![SCP Transfer](images/scp-transfer.png)
-![Transfer Success](images/transfer-success.png)
-![SSH Error](images/ssh-error.png)
-![Cron Job](images/cron-job.png)
-```
 | **Description**                             | **Embedded Image**                                                                                |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| OpenNebula dashboard showing VMs            | ![OpenNebula Dashboard](https://github.com/GiribharathiV/cloud-computing-lab/blob/aa1a5b589e89f50668cfa8e2ab583195f836eaec/WhatsApp%20Image%202025-05-10%20at%2010.29.54_30960f37.jpg)                |
+| OpenNebula login page          | ![OpenNebula Dashboard](https://github.com/GiribharathiV/cloud-computing-lab/blob/aa1a5b589e89f50668cfa8e2ab583195f836eaec/WhatsApp%20Image%202025-05-10%20at%2010.29.54_30960f37.jpg)                |
 | VM creation or VM list view                 | ![VM Creation](https://docs.opennebula.io/6.10/_images/sunstone_create_vrouter.png)                  |
-| Terminal screenshot showing VM IP addresses | ![VM IP Addresses](https://upload.wikimedia.org/wikipedia/commons/4/45/Linux_ifconfig_output.png) |
-| File transfer in progress using `scp`       | ![SCP Transfer](https://linuxhint.com/wp-content/uploads/2022/08/7-11.png)                        |
-| Transfer success confirmation               | ![Transfer Success](https://i.stack.imgur.com/JkbZL.png)                                          |
-| SSH permission error example                | ![SSH Error](https://linuxhint.com/wp-content/uploads/2022/08/6-17.png)                           |
+| File transfer in progress using       | ![SCP Transfer](https://linbit.com/wp-content/uploads/2023/09/linstor-opennebula-how-to-setup_01-1536x509.png)                        |
+| Transfer success confirmation               | ![Transfer Success](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.opennebula.io%2Ft%2Fscheduler-policies%2F10027&psig=AOvVaw0_4QM1coPFRvI1XihGbZr3&ust=1746942522191000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCTu5OamI0DFQAAAAAdAAAAABAI)                                          |
 
 ---
 
@@ -307,5 +280,3 @@ ip a
 `OpenNebula` `VM` `File Transfer` `scp` `rsync` `Linux` `SSH` `Automation` `Cloud` `Virtualization`
 
 ---
-
-Let me know if you'd like to **customize** the wording further, **add actual screenshots**, or tailor it to a specific **Linux distro or OpenNebula version**! 🚀
